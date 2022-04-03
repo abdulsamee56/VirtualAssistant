@@ -1,0 +1,6 @@
+pip install SpeechRecognition
+pip install pyttsx3
+pip install PyAudio
+(if error occurs installing pyaudio do) pip install win
+pip install pywhatkit
+pip install wikipedia
